@@ -13,6 +13,7 @@ Backend
 * Express.js
 * Multer
 * CORS
+  
 Frontend
 * React
 * TypeScript
