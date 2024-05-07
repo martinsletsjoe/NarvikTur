@@ -1,6 +1,8 @@
 # Topptur til Spanstinden
 
 Image Carousel
+![image](https://github.com/martinsletsjoe/NarvikTur/assets/106916526/05b571bc-4b89-4668-b5b6-b42a2709f271)
+
 
 ## Description
 
