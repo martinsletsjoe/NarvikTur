@@ -4,7 +4,7 @@ Image Carousel
 
 ## Description
 
-Image carousel of some images i had from a skiing trip
+Image carousel of some pictures i had from a skiing trip
 
 ## Tech
 Backend
