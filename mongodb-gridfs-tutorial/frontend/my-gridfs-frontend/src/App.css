@@ -1,0 +1,65 @@
+:root {
+  --clr-neutral-100: hsl(0, 0%, 100%);
+  --clr-primary-100: hsl(205, 15%, 58%);
+  --clr-primary-400: hsl(215, 25%, 27%);
+  --clr-primary-800: hsl(217, 33%, 17%);
+  --clr-primary-900: hsl(218, 33%, 9%);
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+html {
+  /* color-scheme: dark; */
+  min-height: 100%;
+  background-image: url(./Fasit.jpg);
+  background-size: cover;
+}
+
+body {
+  display: grid;
+  min-block-size: 80dvh;
+  place-content: center;
+  font-family: system-ui;
+  font-size: 1.125rem;
+}
+
+
+.scroller {
+  max-width: 600px;
+}
+
+.scroller__inner {
+  padding-block: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.scroller {
+  margin-top: 10dvh;
+  overflow: hidden;
+  -webkit-mask: linear-gradient(
+    90deg,
+    transparent,
+    white 20%,
+    white 80%,
+    transparent
+  );
+  mask: linear-gradient(85deg, transparent, white 20%, white 80%, transparent);
+}
+
+.scroller .scroller__inner {
+  width: max-content;
+  flex-wrap: nowrap;
+  animation: 
+  scroll 
+  var(--_animation-duration, 120s) 
+  var(--_animation-direction, forwards)
+  linear infinite;
+}
+
+@keyframes scroll {
+  to {
+    transform: translate(calc(-50% - 0.5rem));
+  }
+}
