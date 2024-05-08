@@ -8,7 +8,7 @@ Image Carousel
 
 ## Description
 
-Image carousel of some pictures i had from a skiing trip
+Image carousel of some pictures i had from a skiing trip with friends. Uses local database to fetch the pictures.
 
 ## Tech
 Backend
