@@ -8,7 +8,7 @@ Image Carousel
 
 ## Description
 
-Image carousel of some pictures i had from a skiing trip with friends. Uses local database to fetch the pictures.
+Image carousel of some pictures i had from a skiing trip with friends. Uses local database to fetch the pictures. Using Batch file to run both ends
 
 ## Tech
 Backend
