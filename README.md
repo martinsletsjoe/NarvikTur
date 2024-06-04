@@ -1,4 +1,4 @@
-# Topptur til Spanstinden
+# randonée trip to Spanstinden with friends
 
 ![image](https://github.com/martinsletsjoe/NarvikTur/assets/106916526/11dbf59b-a5f4-4591-a2d9-b153e77f0362)
 
